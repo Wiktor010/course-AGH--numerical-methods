@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "pytest_lab",
+      "setup": "sudo -H pip3 install pytest numpy scipy matplotlib",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
