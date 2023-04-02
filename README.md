@@ -1,2 +1,2 @@
-# Wiktor-Wiernasiewicz-metody-numeryczne
+# Numerical Methods
 repozytorium utworzone na metodach numerycznych
